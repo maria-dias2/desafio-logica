@@ -1,2 +1,2 @@
-# desafio-logica
-Desafios do curso da Digital Innovation One
+# Desafios de Lógica (Projetos)
+Nesta pasta estarei postando os desafios do curso da Digital Innovation One.
